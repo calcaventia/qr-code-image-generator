@@ -1,0 +1,16 @@
+{
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "I'm learning how to build qr code generator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tintswalo Mabuza",
+  "license": "ISC",
+  "dependencies": {
+    "@inquirer/prompts": "^6.0.1",
+    "qr-image": "^3.2.0"
+  }
+}
